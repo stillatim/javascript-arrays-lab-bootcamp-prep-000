@@ -23,7 +23,7 @@ function appendKitten(b) {
 }
 
 function prependKitten(b) {
-  return ['b', ...kittens]
+  return [b, ...kittens]
 }
 
 
